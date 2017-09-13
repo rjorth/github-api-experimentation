@@ -1,0 +1,15 @@
+{
+  "name": "github-api-project",
+  "version": "1.0.0",
+  "description": "A project I created in node.js to experiment with the GitHub API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./index.js"
+  },
+  "author": "Rose Orth",
+  "license": "ISC",
+  "dependencies": {
+    "github": "^11.0.0"
+  }
+}
